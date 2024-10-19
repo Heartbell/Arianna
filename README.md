@@ -8,6 +8,8 @@ Arianna</h1>
 
 <div align="center">
 Visual Novel.Redifined with GenAI.
+
+Let AI carry the wings of our imagination.
 </div>
 
 <h2>Planned Dev stack</h2>
