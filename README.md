@@ -1,3 +1,7 @@
+<div align="center">
+![AriannaAI](https://github.com/user-attachments/assets/2138fb5e-cbed-41bc-8d7c-452f3c925210)
+</div>
+
 <div align="center"><h1>
 Arianna</h1>
 </div>
