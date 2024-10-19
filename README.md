@@ -1,5 +1,5 @@
 <div align="center">
-![AriannaAI](https://github.com/user-attachments/assets/2138fb5e-cbed-41bc-8d7c-452f3c925210)
+<img src="https://lsky-img.foxex.cn/2024/10/19/6713d75984913.png"style="width: 20%; height: auto;">
 </div>
 
 <div align="center"><h1>
