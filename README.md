@@ -15,9 +15,10 @@ Let AI carry the wings of our imagination.
 
 <h2>Planned Dev stack</h2>
 
-- [Rust](https://www.rust-lang.org/)
+- [Python](https://www.python.org/)
 - [Dart](https://dart.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [LangChain](https://www.langchain.com/)
 - [Flutter](https://flutter.dev/)
 - [Next.js](https://nextjs.org/)
 - [LobeUI](https://github.com/lobehub/lobe-ui)
